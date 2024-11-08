@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="" alt="Project Banner">
+      <img src="https://github.com/OneAutumLeaf/StoreIT/blob/main/public/assets/images/Front.png" alt="Project Banner">
   <br />
 
   <div>
