@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/lie0cr3wESQ" target="_blank">
       <img src="https://i.ibb.co/wR9G2k3/Readme-Thumbnail.png" alt="Project Banner">
-    </a>
   <br />
 
   <div>
@@ -12,14 +10,13 @@
     <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
   </div>
 
-<h3 align="center">Storage and File Sharing Platform</h3>
+<h3 align="center">StoreIT: Storage and File Sharing Platform</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
 </div>
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+## <a name="introduction">🤖 Introduction</a>
+
+A storage management and file sharing platform that lets users effortlessly upload, organize, and share files. Built with the latest Next.js 15 and the Appwrite Node SDK, utilizing advanced features for seamless file management.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
